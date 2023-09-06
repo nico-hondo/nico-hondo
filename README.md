@@ -1,5 +1,5 @@
 <h1>Hi, there 👋🏻</h1>
-<h4>I'm Nico, You can call me "co" or "coco". You can reach me on <a href="linkedin.com/in/nico-hondo" rel="nofollow" target="_blank">LinkedIn</a>, <a href="instagram.com/uxnicofh" rel="nofollow" target="_blank">Instagram</a>, or you can ask my project on <a href="nicofernando.my.id" rel="nofollow" target="_blank">my website</a></h4>
+<h4>I'm Nico, You can call me "co" or "coco". You can reach me on <a href="https://linkedin.com/in/nico-hondo" rel="nofollow" target="_blank">LinkedIn</a>, <a href="https://instagram.com/uxnicofh" rel="nofollow" target="_blank">Instagram</a>, or you can ask my project on <a href="https://nicofernando.my.id" rel="nofollow" target="_blank">my website</a></h4>
 
 <hr/>
 
